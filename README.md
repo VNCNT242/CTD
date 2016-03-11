@@ -1,4 +1,4 @@
-            ::CTD
+        		   ::CTD
 ::copies/transfers/deletes from local computer
 
 ::created by - Vincent Murillo
